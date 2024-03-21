@@ -8,7 +8,7 @@ function toggleMenu() {
 var typed = new Typed(".section__text__p2",{
   strings: ["Java Programmer", "Frontend Developer"],
   typeSpeed:100,
-  backSpeed:60,
+  backSpeed:80,
   backDelay: 1000,
   loop:true,
 })
