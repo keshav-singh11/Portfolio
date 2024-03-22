@@ -55,13 +55,13 @@
   .profile-pic{
     margin-top: 0;
     margin-bottom: 0;
-    width: 40vh;
-    height: 40vh;
+    width: 30vh;
+    height: 30vh;
   }
   #profile {
     
     height: 83vh;
-    margin-bottom: 0;
+    /* margin-bottom: 0; */
   }
   article {
     font-size: 1rem;
@@ -97,7 +97,7 @@
     width: auto;
     height: 46vw;
     justify-content: center;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
   }
   .section__text__p2 {
     font-size: 1.25rem;
