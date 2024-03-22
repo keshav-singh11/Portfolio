@@ -53,10 +53,9 @@
     height: 40vh;
   }
   .profile-pic{
-    margin-top: 0;
-    margin-bottom: 0;
-    width: 30vh;
-    height: 30vh;
+    margin-bottom: 2rem;
+    width: 20vh;
+    height: 20vh;
   }
   #profile {
     
