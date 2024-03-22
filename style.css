@@ -276,9 +276,9 @@ section {
 }
 
 .about-containers {
-  gap: 2rem;
-  margin-bottom: 2rem;
-  margin-top: 2rem;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
 
 .about-details-container {
@@ -302,7 +302,7 @@ section {
 }
 
 .details-container {
-  padding: 1.5rem;
+  padding: 1rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
